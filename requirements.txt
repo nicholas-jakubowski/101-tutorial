@@ -2,3 +2,5 @@ mkdocs
 mkdocs-material
 pygments
 pymdown-extensions
+python-dev
+python3-dev
